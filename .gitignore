@@ -73,3 +73,15 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# --- UE5 Specific ---
+.utouch
+.ue4dependencies
+FileOpenOrder/
+
+# --- Folder rác của Visual Studio Code (Nếu bạn dùng VS Code) ---
+.vscode/
+
+# --- File tạm của Windows ---
+Thumbs.db
+$RECYCLE.BIN/
+
