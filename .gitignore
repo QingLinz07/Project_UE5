@@ -73,12 +73,7 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Binaries/*
-DerivedDataCache/*
-Intermediate/*
-Saved/*
-.vs/*
-*.sln
+
 NiTian/Content/Input/IA_Aim.uasset
 NiTian/Content/Characters/UEFN_Mannequin/Textures/T_UEFN_Mannequin_N.uasset
 NiTian/Content/Characters/UEFN_Mannequin/Textures/T_UEFN_Mannequin_D.uasset
